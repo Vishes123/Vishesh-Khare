@@ -1,4 +1,4 @@
-![logo](https://https://github.com/Vishes123/Vishesh-Khare/blob/main/Github.jpeg)
+![logo](https://github.com/Vishes123/Vishesh-Khare/blob/main/Github.jpeg)
 <h1 align="center">Hi 👋, I'm Vishesh khare</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
